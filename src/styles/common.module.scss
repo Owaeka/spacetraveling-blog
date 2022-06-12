@@ -1,1 +1,11 @@
-// TODO
+@media (min-width: 720px) {
+  .container {
+    margin-left: 25rem;
+  }
+}
+
+@media (max-width: 1080px) {
+  .container {
+    margin-left: 5rem;
+  }
+}

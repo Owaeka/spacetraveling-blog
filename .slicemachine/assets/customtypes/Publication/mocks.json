@@ -1,0 +1,41 @@
+{
+  "id": "20b36571-1b3c-43d4-8745-2ff2a4670973",
+  "uid": "ipsa-facere-voluptatibus",
+  "type": "Publication",
+  "data": {
+    "title": "leverage web-enabled convergence",
+    "subtitle": "generate impactful applications",
+    "author": "synergize visionary users",
+    "banner": {
+      "dimensions": {
+        "width": 900,
+        "height": 500
+      },
+      "alt": "Placeholder image",
+      "copyright": null,
+      "url": "https://images.unsplash.com/photo-1593642532973-d31b6557fa68?w=900&h=500&fit=crop"
+    },
+    "content": [
+      {
+        "heading": "mesh global metrics",
+        "body": [
+          {
+            "type": "paragraph",
+            "text": "Veniam laborum consequat culpa aute voluptate exercitation consectetur incididunt duis.",
+            "spans": []
+          }
+        ]
+      },
+      {
+        "heading": "exploit best-of-breed web services",
+        "body": [
+          {
+            "type": "paragraph",
+            "text": "Voluptate nulla cillum quis elit duis officia amet non.",
+            "spans": []
+          }
+        ]
+      }
+    ]
+  }
+}
